@@ -1,0 +1,9 @@
+{
+  "name": "Gokul Fit Exclusive",
+  "short_name": "Gokul Fit",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090d14",
+  "theme_color": "#0a0f17",
+  "description": "Personal home fitness and night-shift transformation app."
+}
