@@ -1,9 +1,0 @@
-{
-  "name": "Gokul Fit Premium",
-  "short_name": "Gokul Fit",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#070a13",
-  "theme_color": "#080b16",
-  "description": "Private home fitness, night-shift recovery, nutrition and transformation tracking system."
-}
